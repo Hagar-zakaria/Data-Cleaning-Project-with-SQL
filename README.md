@@ -26,4 +26,4 @@ Our first step would be to create a new copy of our table/dataset we are working
 CREATE TABLE jobs AS
 SELECT *
 FROM Uncleaned_DS_jobs;
-![image](https://github.com/Hagar-zakaria/Data-Cleaning-Project-with-SQL/assets/93611934/81506916-9d08-474b-9153-011517907566)
+![Untitled](https://github.com/Hagar-zakaria/Data-Cleaning-Project-with-SQL/assets/93611934/063f8420-2725-456e-bf1c-0a2a91a1c98c)

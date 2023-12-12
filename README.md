@@ -18,12 +18,4 @@ In this project, we will perform essential data cleaning tasks on a dataset of w
 - [Clean the `type_of_ownership` column](#step-8-clean-type_of_ownership-column)
 - [Clean the `competitors` column](#step-9-clean-competitors-column)
 
-## Step 1: Create a new table to work with
 
-Our first step would be to create a new copy of our table/dataset we are working with as we don’t want to mess with the original data.
-
-```sql
-CREATE TABLE jobs AS
-SELECT *
-FROM Uncleaned_DS_jobs;
-![Untitled](https://github.com/Hagar-zakaria/Data-Cleaning-Project-with-SQL/assets/93611934/063f8420-2725-456e-bf1c-0a2a91a1c98c)

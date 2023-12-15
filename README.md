@@ -8,13 +8,14 @@ In this project, we will perform essential data cleaning tasks on a dataset of w
 
 ## Overview of the Project
 
-- [Create a new table to work with](../../tree/step1/steps/step1)
-- [Examine the table structure](../../tree/step2/steps/step2)
-- [Standardize column names](../../tree/step3/steps/step3)
-- [Clean `job_title` column](../../tree/step4/steps/step4)
-- [Extract unnecessary characters from the `salary_estimate` column](../../tree/step5/steps/step5)
-- [Clean the `company_name` column](../../tree/step6/steps/step6)
-- [Fix the `size` column](../../tree/step7/steps/step7)
-- [Clean the `type_of_ownership` column](../../tree/step8/steps/step8)
-- [Clean the `competitors` column](../../tree/step9/steps/step9)
+- [Create a new table to work with](https://github.com/Hagar-zakaria/Data-Cleaning-Project-with-SQL/blob/step1/steps/step1/step1.sql)
+- [Examine the table structure](https://github.com/Hagar-zakaria/Data-Cleaning-Project-with-SQL/blob/step2/steps/step2/step2.sql)
+- [Standardize column names](https://github.com/Hagar-zakaria/Data-Cleaning-Project-with-SQL/blob/step3/steps/step3/step3.sql)
+- [Clean `job_title` column](https://github.com/Hagar-zakaria/Data-Cleaning-Project-with-SQL/blob/step4/steps/step4/step4.sql)
+- [Extract unnecessary characters from the `salary_estimate` column](https://github.com/Hagar-zakaria/Data-Cleaning-Project-with-SQL/blob/step5/steps/step5/step5.sql)
+- [Clean the `company_name` column](https://github.com/Hagar-zakaria/Data-Cleaning-Project-with-SQL/blob/step6/steps/step6/step6.sql)
+- [Fix the `size` column](https://github.com/Hagar-zakaria/Data-Cleaning-Project-with-SQL/blob/step7/steps/step7/step7.sql)
+- [Clean the `type_of_ownership` column](https://github.com/Hagar-zakaria/Data-Cleaning-Project-with-SQL/blob/step8/steps/step8/step8.sql)
+- [Clean the `competitors` column](https://github.com/Hagar-zakaria/Data-Cleaning-Project-with-SQL/blob/step9/steps/step9/step9.sql)
+
 

@@ -8,12 +8,13 @@ In this project, we will perform essential data cleaning tasks on a dataset of w
 
 ## Overview of the Project
 
-- [Create a new table to work with](./steps/step1/README.md)
-- [Examine the table structure](./steps/step2/README.md)
-- [Standardize column names](./steps/step3/README.md)
-- [Clean `job_title` column](./steps/step4/README.md)
-- [Extract unnecessary characters from the `salary_estimate` column](./steps/step5/README.md)
-- [Clean the `company_name` column](./steps/step6/README.md)
-- [Fix the `size` column](./steps/step7/README.md)
-- [Clean the `type_of_ownership` column](./steps/step8/README.md)
-- [Clean the `competitors` column](./steps/step9/README.md)
+- [Create a new table to work with](../../tree/step1/steps/step1)
+- [Examine the table structure](../../tree/step2/steps/step2)
+- [Standardize column names](../../tree/step3/steps/step3)
+- [Clean `job_title` column](../../tree/step4/steps/step4)
+- [Extract unnecessary characters from the `salary_estimate` column](../../tree/step5/steps/step5)
+- [Clean the `company_name` column](../../tree/step6/steps/step6)
+- [Fix the `size` column](../../tree/step7/steps/step7)
+- [Clean the `type_of_ownership` column](../../tree/step8/steps/step8)
+- [Clean the `competitors` column](../../tree/step9/steps/step9)
+
